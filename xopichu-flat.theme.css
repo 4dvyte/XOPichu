@@ -118,5 +118,8 @@
 .container__037ed::after {
   content: var(--container-text) !important;
 }
+.scrollableContainer__33e06 {
+  border-radius: var(--border-radius) !important;
+}
 
 /* add your code here */
