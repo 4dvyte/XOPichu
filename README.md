@@ -16,14 +16,26 @@
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-flat.png)
 
-### Few more Screenshots.
-
-Loading Screen
+### Loading Screen
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/loading.png)
 
 </div>
 <br/>
+
+## More backgrounds you can use.
+
+### Dawn FM
+
+![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-dawnfm.png)
+
+### After Hours
+
+![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-afterhours.png)
+
+### Trilogy
+
+![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-trilogy.png)
 
 ## 📥 Installation
 
