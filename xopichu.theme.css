@@ -154,7 +154,8 @@
 .peopleColumn__51df3,
 :root .container__5c7e7 .container__11d72,
 .nowPlayingColumn_f5023f::before,
-.nowPlayingColumn_f5023f::after {
+.nowPlayingColumn_f5023f::after,
+.container__037ed::after {
   backdrop-filter: blur(var(--bg-blur));
 }
 .scroller_f0f183,
@@ -205,6 +206,9 @@
 .lookFilled__19298.colorBrand_b2253e,
 :root .container__871ba.checked__6bdb0 {
   background-color: var(--button) !important;
+}
+.autocompleteInner__8785c {
+  background: var(--background-floating);
 }
 
 /* add your code here */
