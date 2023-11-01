@@ -155,7 +155,8 @@
 :root .container__5c7e7 .container__11d72,
 .nowPlayingColumn_f5023f::before,
 .nowPlayingColumn_f5023f::after,
-.container__037ed::after {
+.container__037ed::after,
+:root .title_b7d661 {
   backdrop-filter: blur(var(--bg-blur));
 }
 .scroller_f0f183,
