@@ -77,5 +77,3 @@ User Modal
     <b><p align="left">Vencord & Replugged</b>
     <br/>Watch this epic tutorial</p>
 </div>
-
-https://user-images.githubusercontent.com/65369563/231574735-89da88ef-2cf1-4aa5-a157-3a66ce8d274b.mp4
