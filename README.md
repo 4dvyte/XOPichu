@@ -22,14 +22,6 @@ Loading Screen
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/loading.png)
 
-Inbox
-
-![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/inbox.png)
-
-User Modal
-
-![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/profile.png)
-
 </div>
 <br/>
 
@@ -70,10 +62,4 @@ User Modal
     <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
     <b><p align="left">BetterDiscord</b>
     <br/>Open Settings > Themes > Themes folder and open <code>xopichu.theme.css</code> or <code>xopichu-flat.theme.css</code></p>
-</div>
-
-<div align="left">
-    <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
-    <b><p align="left">Vencord & Replugged</b>
-    <br/>Watch this epic tutorial</p>
 </div>
