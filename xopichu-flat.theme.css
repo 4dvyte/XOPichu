@@ -1,6 +1,6 @@
 /**
 * @name XOPichu Flat
-* @author Nyria#3863
+* @author Nyria#3863, advyte
 * @description A theme forked from LilyPichu with some tiny Weeknd edit by Adv
 * @invite rtBQX5D3bD
 * @version 1.4
@@ -34,8 +34,6 @@
 
 --button: #dba470;
 
---blur: blur(5px);
-
 }
 .theme-dark {
 
@@ -53,13 +51,13 @@
     --interactive-active: #e2e2e2;
 
     /* Background color */
-    --background-primary: #242424 !important;
+    --background-primary: #262626 !important;
     --background-secondary: #0c0c0c !important;
     --background-secondary-alt: #141414 !important;
     --background-tertiary: #1a1a1a !important;
     --background-floating: #131313 !important;
-    --background-accent: #5f5f5f !important;
-    --channeltextarea-background: var(--background-secondary);
+    --background-accent: #707070 !important;
+    --channeltextarea-background: var(--background-secondary) !important;
     --background-modifier-hover: rgba(48, 44, 44, 0.32) !important;
     --background-modifier-active: rgba(17, 12, 12, 0.32) !important;
     --background-modifier-selected: rgba(31, 21, 21, 0.32) !important;
@@ -79,83 +77,31 @@
     --channel-text-area-placeholder: var(--interactive-normal);
     --deprecated-quickswitcher-input-background: var(--background-primary);
 }
-    .colorBrand-3cPPsm { color: var(--button) !important;}
-    .colorDefault-CDqZdO.focused-3qFvc8, .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) { background-color: var(--background-modifier-hover) !important;}
 
-    /* Buttons */
-    .lookFilled-yCfaCM { background-color: var(--button) !important;}
-    .lookFilled-yCfaCM:active, .lookFilled-yCfaCM:hover { background-color: var(--button) !important;}
-    .lookOutlined-3yKVGo:not(.colorWhite-1H92hK) { color: var(--button) !important; border-color: var(--button) !important;}
-
-    /* Hover background */
-    .colorDefault-CDqZdO.focused-3qFvc8, .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) { color: var(--interactive-normal);}
-
-    :root .app-3xd6d0::before {
-      background: url(none) no-repeat;
-    }
-    :root .app-3xd6d0::after {
-      background: url(none) no-repeat;
-    }
-    :root .app-2CXKsg::before {
-      background: url(none) no-repeat;
-    }
-    :root .app-2CXKsg::after {
-      background: url(none) no-repeat;
-    }
-    :root .layers-OrUESM::before {
-      background: url(none) no-repeat;
-    }
-    :root .layers-OrUESM::after {
-      background: url(none) no-repeat;
-    }
-    :root .bg-1QIAus::after {
-      background: url(none) no-repeat;
-    }
-    :root .bg-1QIAus::before {
-      background: url(none) no-repeat;
-    }
-
-    :root .bg-1QIAus {
-        background: var(--background-image) center/cover no-repeat !important;
-    }
-    .container-1eFtFS::after {
-      content: var(--container-text) !important;
-      position: fixed;
-      top: 220px;
-      bottom: 85px;
-      right: 60px;
-      z-index: -2;
-      width: 320px;
-      background-color: var(--background-primary);
-      text-align: center;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 30px;
-      color: var(--text-normal);
-      border-radius: var(--border-radius);
-      overflow: hidden;
-    }
-    .homeIcon-r0w4ny path {fill: transparent}
-    .homeIcon-r0w4ny {
-        background: var(--home-button-icon) center/cover no-repeat !important;
-        min-width: 60px;
-        min-height: 60px;
-    }
-.userProfileInnerThemedNonPremium-2AJg-H,.userProfileInnerThemedPremiumWithoutBanner-lZ9inp,.userProfileInnerThemedWithBanner-25XGmz {
-    background: var(--profile-xo-logo) !important;
+:root .bg__12180,
+:root .app_de4237::before,
+:root .app_b1f720::before,
+:root .app_b1f720::after,
+:root .app_de4237::after,
+:root .bg__12180::after,
+:root .bg__12180::before,
+:root .layers__1c917::after,
+:root .layers__1c917::before {
+  background: url(none) !important;
 }
-.userPanelOverlayBackground-3xwDMp, {
-    background: none !important;
+:root .bg__12180 {
+  background: var(--background-image) center/cover no-repeat !important;
+} 
+.wrapper_d281dd:hover .childWrapper__01b9c, .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c path {
+  fill: transparent
 }
-.container-2ebMPP {
-  background: var(--background-floating) !important;
+.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd:hover .childWrapper__01b9c {
+  background: var(--home-button-icon) center/cover no-repeat !important;
+  min-width: 60px;
+  min-height: 60px;
 }
-.messageContainer-3VTXBC,.peopleListItem-u6dGxF {
-    background: var(--background-secondary-alt) !important;
-}
-.header-145e10.expanded-2H1xJ- {
-  background: none !important;
+.userProfileModalInner__7c87d, .userProfileInner__8065b, .userProfileInnerThemedPremiumWithoutBanner__703b1 {
+  background: var(--profile-xo-logo) !important;
 }
 :root .ready-3BZNWT + .text-2bYgPB::before {
   content: "";
@@ -166,12 +112,11 @@
   height: 200px;
   background: var(--jumping-gif) center/80% no-repeat !important;
 }
-.userProfileOuterThemed-2BgJCM.userPopoutOuter-1OHwPL, .userProfileOuterThemed-2BgJCM.userProfileOuter-2tQwNf {
+.userProfileOuterThemed__6eb84.userPopoutOuter_d739b2, .userProfileOuterThemed__6eb84.userProfileOuter__46bb7 {
   padding: 10px;
 }
-.panel-2ZFCRb {
-  z-index: 10 !important;
-  background-color: var(--toast-header) !important;
+.container__037ed::after {
+  content: var(--container-text) !important;
 }
 
 /* add your code here */
