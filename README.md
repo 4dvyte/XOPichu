@@ -54,12 +54,3 @@ Loading Screen
     <b><p align="left">Vencord</b>
     <br/>Copy <code>https://raw.githubusercontent.com/4dvyte/XOPichu/main/xopichu-flat.theme.css</code> into the box in Settings > Themes > Themes tab</p>
 </div><br/>
-
-## 🖌️ Customization
-
-<br/>
-<div align="left">
-    <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
-    <b><p align="left">BetterDiscord</b>
-    <br/>Open Settings > Themes > Themes folder and open <code>xopichu.theme.css</code> or <code>xopichu-flat.theme.css</code></p>
-</div>
