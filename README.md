@@ -25,15 +25,15 @@
 
 ## More backgrounds you can use.
 
-### Dawn FM
+### Dawn FM ("bg2.png")
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-dawnfm.png)
 
-### After Hours
+### After Hours ("bg3.png")
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-afterhours.png)
 
-### Trilogy
+### Trilogy ("bg4.png")
 
 ![Preview](https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/preview-trilogy.png)
 
