@@ -118,7 +118,8 @@
 .container__037ed::after {
   content: var(--container-text) !important;
 }
-.scrollableContainer__33e06 {
+.scrollableContainer__33e06,
+.channel_c21703 {
   border-radius: var(--border-radius) !important;
 }
 
