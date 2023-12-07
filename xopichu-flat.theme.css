@@ -12,19 +12,19 @@
 
 /* --- User variables --- */
 
---background-image: url('https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/bg.png');
+--background-image: url('https://raw.githubusercontent.com/Advyt3/XOPichu/main/assets/bg.png');
 
 --container-text: "Stay Goated";
 
---home-button-icon: url('https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/home.png');
+--home-button-icon: url('https://raw.githubusercontent.com/Advyt3/XOPichu/main/assets/home.png');
 
---inbox-bg-img: url('https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/window-xo.png');
+--inbox-bg-img: url('https://raw.githubusercontent.com/Advyt3/XOPichu/main/assets/window-xo.png');
 
 /* XO logo in user profile / set it to none if you dont want it */
---profile-xo-logo: url('https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/xo-profile-bg.png');
+--profile-xo-logo: url('https://raw.githubusercontent.com/Advyt3/XOPichu/main/assets/xo-profile-bg.png');
 
 /* Jumping GIF */
---jumping-gif: url('https://raw.githubusercontent.com/4dvyte/XOPichu/main/assets/xo-mini.png');
+--jumping-gif: url('https://raw.githubusercontent.com/Advyt3/XOPichu/main/assets/xo-mini.png');
 
 /* --background-tertiary-alt: url();  */
 --background-tertiary-alt: rgb(177, 177, 177);
