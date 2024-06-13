@@ -128,6 +128,10 @@
     --deprecated-quickswitcher-input-background: var(--background-primary);
 }
 
+
+[class*=layers] > [class*=layer] > [class*=container]::after {
+  content: var(--container-text);
+}
 .container__20de0, .recentMentionsPopout__826a9 {
   background: var(--inbox-bg-img) center/cover no-repeat !important;
   backdrop-filter: blur(var(--bg-blur-secondary)) !important;
@@ -141,7 +145,7 @@
 :root .container__5c7e7 .container__11d72,
 .nowPlayingColumn_b025fe::before,
 .nowPlayingColumn_b025fe::after,
-.container__037ed::after,
+.container_d1f8f5::after,
 :root .title_b7d661 {
   backdrop-filter: blur(var(--bg-blur));
 }
@@ -152,7 +156,9 @@
 .sidebarRegionScroller__8113e,
 .contentRegionScroller__9ae20,
 .contentRegion__0bec1,
+.hiddenMembers__0524b
 .searchBar__621ec,
+.members__573eb,
 .scroller__89969
 {
   backdrop-filter: blur(var(--bg-blur-secondary));
